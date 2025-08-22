@@ -61,5 +61,5 @@ function sortearAmigo(){
         amigos.splice(indice,1)
         listaResultado.style.color = "#05DF05"
 
-    }, 1800);
+    }, 1250);
 }
